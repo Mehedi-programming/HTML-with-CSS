@@ -1,0 +1,22 @@
+/*.image{
+    background-image: url('./Images/pngtree-scenic-autumn-drive-through-new-englands-foliageadorned-countryside-usa-photo-image_32930174.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height:98vh;
+}*/
+.alada{
+    background-image: url('./Images/istockphoto-513951578-2048x2048.jpg');
+    height:98vh;
+    background-size: cover;
+}
+.vinno{
+    color:brown;
+    border:3px solid green;
+    background-color: wheat;
+
+}
+
+*{
+    margin:0;
+}

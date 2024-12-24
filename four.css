@@ -1,0 +1,35 @@
+.anchor{
+    color:navy;
+    text-decoration:none;
+
+}
+.span{
+    color:red;
+    border:2px solid green;
+    width: 90px;
+    height: 100px;
+    display:inline-block;
+
+}
+.kabul{
+    color:brown;
+    background-color: green;
+    display: none;
+}
+.rafi{
+    visibility: hidden;
+}
+.second-pera{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.third{
+    /*background-color: red;*/
+    background: linear-gradient(to right,blue,white,brown,green);
+    border:3px solid red;
+    color:black;
+    margin:40px;
+    padding:30px;
+    border-radius: 15px;
+    box-shadow: 10px 15px 15px;
+    
+}
